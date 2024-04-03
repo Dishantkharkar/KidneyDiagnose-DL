@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "KidneyDiagnose-DL"
 AUTHOR_USER_NAME = "Dishantkharkar"
-SRC_REPO = "KidneyDiagnose: Pioneering AI-driven Solutions for Advanced Renal Health Diagnosis"
+SRC_REPO = "KidneyDiagnose"
 AUTHOR_EMAIL = "dishantkharkar9@gmailo.com"
 
 
