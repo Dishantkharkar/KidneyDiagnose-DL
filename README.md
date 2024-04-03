@@ -38,10 +38,28 @@ To ensure smooth development and deployment, follow these workflows:
 
 10. **Update app.py:** If applicable, update the `app.py` file for web application deployment or integration.
 
+## Getting Started
+
+To get started with KidneyDiagnose, follow these steps:
+
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/KidneyDiagnose.git`.
+2. **Create a Conda Environment:** After opening the repository, create a conda environment using the following command:
+   ```bash
+   conda create -n cnncls python=3.8 -y
+   conda activate cnncls
+3. **Install Requirements**: Install the required dependencies by running:
+```bash
+pip install -r requirements.txt
+```
+4. **Run the Application**: Finally, run the following command:
+```bash
+python main.py
+```
+5. **Open Local Host**: Open your local host and port to access the application.
 
 ## Contributors
 
-- Dishant Kharkar ([LinkedIn](https://www.linkedin.com/in/dishant-kharkar-17b508273/))
+- **Dishant Kharkar** ([LinkedIn](https://www.linkedin.com/in/dishant-kharkar-17b508273/))
 
 ## License
 
